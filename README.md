@@ -19,3 +19,6 @@ This project has four parts :
 * app.py — This contains Flask APIs that receives sales details through GUI or API calls, computes the predicted value based on our model and returns it.
 * request.py — This uses requests module to call APIs defined in app.py and displays the returned value.
 * HTML/CSS — This contains the HTML template and CSS styling to allow user to enter sales detail and displays the predicted sales in the third month.
+
+
+![image](https://github.com/harbidel/House-Price-Prediction-Deployment/assets/19872127/276592d2-09c8-4860-9991-f0170e3a8209)
