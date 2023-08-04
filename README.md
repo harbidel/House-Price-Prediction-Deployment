@@ -22,3 +22,9 @@ This project has four parts :
 
 
 ![image](https://github.com/harbidel/House-Price-Prediction-Deployment/assets/19872127/276592d2-09c8-4860-9991-f0170e3a8209)
+
+# Environment and tools
+* scikit-learn
+* pandas
+* numpy
+* flask
